@@ -2,6 +2,10 @@
 
 
 
+#   HASIL & METHODE 🐼
+
+[![20220708-233026.png](https://i.postimg.cc/RFBZXMbR/20220708-233026.png)](https://postimg.cc/v10ymdyg)
+
 
 # Install / Perintah
 Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/packages/com.termux/ Jika sudah kamu buka Termux nya lalu ketik perintah ini
