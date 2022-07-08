@@ -9,6 +9,7 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
 
     $ pkg install python git -y
     $ pip install bs4 rich requests futures
+    $ rm -rf Joee-Old
     $ git clone https://github.com/JoeDevXX2K/Joee-Old
     $ cd $HOME/Joee-Old
     $ git pull
