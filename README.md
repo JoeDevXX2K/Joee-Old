@@ -30,3 +30,6 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
 
     WhatsApp : 083164279551
     Facebook : https://www.facebook.com/JOE.XXX2050
+
+
+[![20220708-231943.png](https://i.postimg.cc/hPFQ7rpT/20220708-231943.png)](https://postimg.cc/3WBxsgMx)
